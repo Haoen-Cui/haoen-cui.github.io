@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: Welcome to Haoen CUI's homepage
+description: Haoen CUI is a current undergraduate senior at the University of Illinois at Urbana-Champaign
+name: CUI, Haoen
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
