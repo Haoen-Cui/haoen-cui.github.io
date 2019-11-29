@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | HAOEN CUI</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Haoen CUI, 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Haoen Cui is an Associate Data Scientist on the Energy vertical team at Uptake, a Chicago-based startup focusing on AI/ML preventive maintenance solutions for the industrial IoT space. His responsibilities include data science, data engineering, DevOps support, application product building, etc.&lt;/p&gt;
+&lt;p&gt;Before joining Uptake, Haoen obtained several degrees from UIUC and worked temporarily as a Research Assistant at the &lt;a href=&#34;https://math.illinois.edu/illinois-risk-lab/home&#34;&gt;Illinois Risk Lab&lt;/a&gt; after graduation. During his undergraduate years, he had multiple on-campus part-time jobs and interned at State Farm and Deloitte.&lt;/p&gt;
+&lt;p&gt;Outside of work, Haoen is actively broadening his knowledge span by pursuing professional &lt;a href=&#34;#certifications&#34;&gt;certifications&lt;/a&gt;, taking online courses, and contributing to open-source projects. He is the current maintainer of the &lt;a href=&#34;https://github.com/uptake/updoc&#34;&gt;UpDoc&lt;/a&gt; package and serves as the President of the Uptake Math Club.&lt;/p&gt;
+&lt;p&gt;Alternative name representations: 崔豪恩, 최호은, or Hao-En Tsui.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

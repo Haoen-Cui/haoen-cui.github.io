@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HAOEN CUI</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>HAOEN CUI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Haoen CUI, 2019</copyright><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>HAOEN CUI</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Education History</title>
+      <link>/education/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/education/</guid>
+      <description>&lt;p&gt;Haoen Cui is currently pursuing Master of Science in Computer Science degrees at the &lt;a href=&#34;http://www.omscs.gatech.edu/&#34;&gt;Georgia Institute of Technology&lt;/a&gt; and the &lt;a href=&#34;https://www.cs.utexas.edu/graduate-program/masters-program/online-option&#34;&gt;University of Texas at Austin&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;undergraduate-education&#34;&gt;Undergraduate Education&lt;/h2&gt;
+&lt;p&gt;During undergraduate years, he pursued three degrees consisting of four majors, two minors, and various certificates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bachelor of Science in Liberal Arts and Sciences, Major in &lt;strong&gt;Mathematics&lt;/strong&gt; (Graduate Preparatory Track) and &lt;strong&gt;Statistics&lt;/strong&gt; with a Certificate in &lt;strong&gt;Data Science&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Institutional Honors: Summa Cum Laude&lt;/li&gt;
+&lt;li&gt;Departmental Honors: Highest Distinction in Mathematics and Highest Distinction in Statistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bachelor of Science in &lt;strong&gt;Finance&lt;/strong&gt; (Affiliated with Investment Management Academy)
+&lt;ul&gt;
+&lt;li&gt;Institutional Honors: Highest Honors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bachelor of Science in &lt;strong&gt;Accountancy&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Institutional Honors: Highest Honors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Minor in &lt;strong&gt;Computer Science&lt;/strong&gt; (CS)&lt;/li&gt;
+&lt;li&gt;Minor in &lt;strong&gt;Computational Science and Engineering&lt;/strong&gt; (CSE)&lt;/li&gt;
+&lt;li&gt;Margolis &lt;strong&gt;Market Information Lab&lt;/strong&gt; Certificates (All Tracks Completed: Basic, Capital Markets Trading, Investment Banking, Risk and Analytics, and Wealth Management)&lt;/li&gt;
+&lt;li&gt;Digital Maker Certificate for &lt;strong&gt;3D Printing&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;His final overall GPA is 3.95 / 4.00 which qualified him for the &lt;strong&gt;Bronze Tablet&lt;/strong&gt; award as top 3% of the graduating Class of 2018. Below is a summary table of all curriculum requirements.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Curriculum&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Home Department&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Requirements&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Mathmatics Major&lt;/strong&gt; (Graduate Preparatory Concentration)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Mathematics, &lt;!-- raw HTML omitted --&gt;College of Liberal Arts and Sciences&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://catalog.illinois.edu/undergraduate/las/academic-units/math/graduate-preparatory-concentration/&#34;&gt;Catalog Page&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Statistics Major&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Statistics, &lt;!-- raw HTML omitted --&gt;College of Liberal Arts and Sciences&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://catalog.illinois.edu/undergraduate/las/academic-units/stats/statistics-major/&#34;&gt;Catalog Page&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Certificate in Data Science&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Statistics, &lt;!-- raw HTML omitted --&gt;College of Liberal Arts and Sciences&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://stat.illinois.edu/academics/undergraduate-program/degree-programs/certificate-data-science&#34;&gt;Program Page&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Finance Major&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Finance, &lt;!-- raw HTML omitted --&gt;Gies College of Business&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://catalog.illinois.edu/undergraduate/business/departments/finance/&#34;&gt;Catalog Page&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Investment Management Academy&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Finance, &lt;!-- raw HTML omitted --&gt;Gies College of Business&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.business.illinois.edu/finance/rcmp/IMA.aspx&#34;&gt;Program Page&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Accountancy Major&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Accountancy, &lt;!-- raw HTML omitted --&gt;Gies College of Business&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://catalog.illinois.edu/undergraduate/business/departments/accy/&#34;&gt;Catalog Page&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Computer Science Minor&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Computer Science, &lt;!-- raw HTML omitted --&gt;College of Engineering&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://catalog.illinois.edu/undergraduate/engineer/computer-science/&#34;&gt;Catalog Page&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Computational Science and Engineering Minor&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Department of Computational Science and Engineering, College of Engineering&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://catalog.illinois.edu/undergraduate/engineer/computational-science-eng/&#34;&gt;Catalog Page&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Margolis Market Information Lab Certificates&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Gies College of Business&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://business.illinois.edu/mil/&#34;&gt;Program Page&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Digital Maker Certificate&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Illinois MakerLab, &lt;!-- raw HTML omitted --&gt;Gies College of Business&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://makerlab.illinois.edu/workshops/&#34;&gt;Program Page&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Business Core Curriculum&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;All Departments, &lt;!-- raw HTML omitted --&gt;Gies College of Business&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://business.illinois.edu/undergraduate-affairs/current-students/degree-information/core-curriculum/&#34;&gt;Requirements&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Business General Education&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;All Departments, &lt;!-- raw HTML omitted --&gt;Gies College of Business&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://business.illinois.edu/undergraduate-affairs/current-students/degree-information/gen-ed/&#34;&gt;Requirements&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Liberal Arts and Sciences General Education&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;All Departments, &lt;!-- raw HTML omitted --&gt;College of Liberal Arts and Sciences&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.las.illinois.edu/students/requirements/gened/&#34;&gt;Requirements&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;https://hcui10.shinyapps.io/haoen_cuis_course_description/&#34;&gt;Full academic history&lt;/a&gt; is also available in this &lt;code&gt;R Shiny&lt;/code&gt; app &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;N/A&amp;rdquo; means &amp;ldquo;Forgotten&amp;rdquo;, &amp;ldquo;Not Applicable&amp;rdquo;, &amp;ldquo;None&amp;rdquo;, or &amp;ldquo;Does Not Exist&amp;rdquo;;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Textbook&lt;/code&gt; = &amp;ldquo;Unknown&amp;rdquo; means that I don&#39;t know the textbooks used because I did not sit in the courses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other-courses-taken&#34;&gt;Other Courses Taken&lt;/h2&gt;
+&lt;h4 id=&#34;highperformance-computing&#34;&gt;High-Performance Computing&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux Cluster Institute (LCI) Introductory Workshop on High Performance Clustered Computing, May 22 - 26, 2017 [&lt;a href=&#34;https://drive.google.com/open?id=1XgK03kT_6J8THOFVLO6MCX7cGbHLq8u3&#34;&gt;Certificate&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;quantitative-finance&#34;&gt;Quantitative Finance&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Course Name&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Institution&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Venue&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.cqf.com/&#34;&gt;Certificate in Quantitative Finance&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Lead Instructor:&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Dr. Paul Wilmott&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Delivered by FitchLearning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.arpm.co/marathon/&#34;&gt;Advanced Risk and Portfolio Management&lt;!-- raw HTML omitted --&gt;Marathon Course&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Lead Instructor:&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Attilio Meucci&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Online Through &lt;a href=&#34;https://www.arpm.co/&#34;&gt;arpm.co&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.coursera.org/learn/financial-engineering-1&#34;&gt;Financial Engineering and Risk Management (Part I &amp;amp; II)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Columbia University&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [&lt;a href=&#34;https://drive.google.com/open?id=1Qk_717JAVOynkurCtoUDg1-37XGAGrUO&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;coursera-x-university-of-pennsylvania--business-analytics-specialization&#34;&gt;Coursera X University of Pennsylvania - Business Analytics Specialization&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Course Name&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;!-- raw HTML omitted --&gt;Institution&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Venue&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Customer Analytics&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Wharton&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [&lt;a href=&#34;https://drive.google.com/open?id=1d-oIMGzY9m3B_nUg4Eb2vwFd7bCwJXp3&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Operations Analytics&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Wharton&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [&lt;a href=&#34;https://drive.google.com/open?id=1BGbXF3EJujj54EJuRekCO847N1pcWf4A&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;People Analytics&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Wharton&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [&lt;a href=&#34;https://drive.google.com/open?id=1iGyzIyVIvFUeZZj3oFBWqTYgroktOjij&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Accounting Analytics&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Wharton&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [&lt;a href=&#34;https://drive.google.com/open?id=1AdefgaYYnIbV7rL0VCnAPBImIZXwH0WH&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Business Analytics Capstone&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Wharton&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [Certificate]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;coursera-x-pwc--data-analysis-and-presentation-skills-specialization&#34;&gt;Coursera X PwC - Data Analysis and Presentation Skills Specialization&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Course Name&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;!-- raw HTML omitted --&gt;Institution&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Venue&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Data-driven Decision Making&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PwC&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [&lt;a href=&#34;https://drive.google.com/open?id=1NEXZKNBr3v5_zczyyNBFK5bDu2zxxzOA&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Problem Solving with Excel&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PwC&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [&lt;a href=&#34;https://drive.google.com/open?id=15mzkhQHpEx5anpMrx8iJlWT21_ZFfUzv&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Data Visualization with Advanced Excel&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PwC&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [&lt;a href=&#34;https://drive.google.com/open?id=1_3sB9wljqydBzTKzGvoLLM6iaNlgJRGI&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Effective Business Presentations with Powerpoint&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PwC&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [Certificate]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Data Analysis and Presentation Skills Final Project&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PwC&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Offered on Coursera [Certificate]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Please close the application after use. With a free account, the app only has &lt;em&gt;limited&lt;/em&gt; active hours per month. If the link fails, please try &lt;a href=&#34;https://haoencui.shinyapps.io/haoen_cuis_course_description/&#34;&gt;this link&lt;/a&gt; instead. Again, same limitation applies. If both servers are down, please download the application from &lt;a href=&#34;https://github.com/hcui10/hcui10.github.io/blob/master/courses/app.R&#34;&gt;here&lt;/a&gt; and run it locally (preferably using &lt;code&gt;R Studio&lt;/code&gt;). As a last resort, one can download the Excel file from &lt;a href=&#34;https://drive.google.com/open?id=1XzVYwz8KoWf_lnvAvC7mgEJXsxLVU8dM&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Honors and Awards</title>
+      <link>/awards/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/awards/</guid>
+      <description>&lt;h2 id=&#34;industry&#34;&gt;Industry&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Year&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Honors and Awards&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2019&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;2019 Q3 Uptake Data Science Team MVP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;undergraduate&#34;&gt;Undergraduate&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Year&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;!-- raw HTML omitted --&gt;Honors and Awards&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2018&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;University Honors (aka Bronze Tablet, Top 3% of the Graduating Class of 2018) [&lt;a href=&#34;https://digital.library.illinois.edu/items/ed1a2e90-2402-0137-6b87-02d0d7bfd6e4-0&#34;&gt;UIUC Digital Collections&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Second Place of AXIS Capital UIUC Student Challenge [&lt;a href=&#34;https://drive.google.com/open?id=1gIrI3X5UOiOvK20p9tYRh4woGHt3WokY&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;James Scholar Preble Research Scholarship, Sponsored by College of Liberal Arts and Sciences, University of Illinois at Urbana-Champaign [[Web Page](James Scholar Preble Research Scholarship, Sponsored by College of Liberal Arts and Sciences, University of Illinois at Urbana-Champaign [Web Page])]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2017&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Midwest Undergraduate Data Analytics Competition (MUDAC) Discovery Award [&lt;a href=&#34;http://www.mudac.org/&#34;&gt;Web Page&lt;/a&gt;][&lt;a href=&#34;https://drive.google.com/open?id=1YOcVxaBF1a63R4hGFCXRFB7lhaWfuJNQ&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Phi Kappa Phi Honor Society University of Illinois Chapter Junior Scholarship&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2016&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ascend Corporate Scholarship Sponsored by Robert Half [&lt;a href=&#34;http://www.ascendleadership.org/page/2016Scholarships&#34;&gt;Web Page&lt;/a&gt;][&lt;a href=&#34;https://drive.google.com/open?id=1Mr61-KTVHntb3ywze1OSmc1F3e1vijsH&#34;&gt;Certificate&lt;/a&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Recurring&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Dean’s List ([&lt;a href=&#34;https://business.illinois.edu/dean/deans-list/&#34;&gt;College of Business&lt;/a&gt;][&lt;a href=&#34;http://www.las.illinois.edu/students/honors/distinctions/&#34;&gt;College of Liberal Arts and Sciences&lt;/a&gt;]) for every semester (Fall 2014, Spring 2015, Fall 2015, Spring 2016, Fall 2016, Spring 2017, Fall 2017, Spring 2018)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Edmund J. James Scholar ([&lt;a href=&#34;https://business.illinois.edu/undergraduate-affairs/current-students/honors-programs/james-scholars/&#34;&gt;College of Business&lt;/a&gt;][&lt;a href=&#34;http://www.las.illinois.edu/students/honors/james/&#34;&gt;College of Liberal Arts and Sciences&lt;/a&gt;]) status since sophomore year (Academic Year 2015-2016, 2016-2017, 2017-2018)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Honor Societies&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.pbk.org/&#34;&gt;Phi Beta Kappa (ΦΒΚ)&lt;/a&gt;: the oldest honor society for the liberal arts and sciences in the United States&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://pme-math.org/&#34;&gt;Pi Mu Epsilon (ΠΜΕ)&lt;/a&gt;: honorary national mathematics society&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://phikappaphi.org/&#34;&gt;Phi Kappa Phi (ΦΚΦ)&lt;/a&gt;: honor society for all academic disciplines&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.betagammasigma.org/&#34;&gt;Beta Gamma Sigma (ΒΓΣ)&lt;/a&gt;: international business honor society&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.omicrondeltaepsilon.org/&#34;&gt;Omicron Delta Epsilon (ΟΔΕ)&lt;/a&gt;: international economics honor society&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.phietasigma.org/&#34;&gt;Phi Eta Sigma (ΦΗΣ)&lt;/a&gt;: freshman honor society&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/projects/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This page is under development &amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;r-packages&#34;&gt;&lt;code&gt;R&lt;/code&gt; Packages&lt;/h2&gt;
+&lt;h4 id=&#34;mischelperfunshttpsgithubcomhaoencuimischelperfuns-demo-r-package&#34;&gt;&lt;a href=&#34;https://github.com/Haoen-Cui/mischelperfuns&#34;&gt;&lt;code&gt;MiscHelperfuns&lt;/code&gt;&lt;/a&gt;: Demo &lt;code&gt;R&lt;/code&gt; Package&lt;/h4&gt;
+&lt;h2 id=&#34;python-packages&#34;&gt;&lt;code&gt;Python&lt;/code&gt; Packages&lt;/h2&gt;
+&lt;h2 id=&#34;other-opensource-maintainership&#34;&gt;Other Open-Source Maintainership&lt;/h2&gt;
+&lt;h4 id=&#34;updochttpsgithubcomuptakeupdoc-an-application-for-serving-documentation-in-a-cloud-environment&#34;&gt;&lt;a href=&#34;https://github.com/uptake/updoc&#34;&gt;&lt;code&gt;UpDoc&lt;/code&gt;&lt;/a&gt;: An application for serving documentation in a cloud environment&lt;/h4&gt;
+&lt;h2 id=&#34;undergraduate-research-projects&#34;&gt;Undergraduate Research Projects&lt;/h2&gt;
+&lt;h4 id=&#34;senior-thesis-a-primer-on-the-mathematics-of-guaranteed-minimum-maturity-benefit-gmmb-insurance-contractshttpsmathillinoisedusystemfilesinlinefilesa20primer20on20gmmbpdf&#34;&gt;&lt;a href=&#34;https://math.illinois.edu/system/files/inline-files/A%20Primer%20on%20GMMB.pdf&#34;&gt;Senior Thesis: A Primer on the Mathematics of Guaranteed Minimum Maturity Benefit (GMMB) Insurance Contracts&lt;/a&gt;&lt;/h4&gt;
+&lt;h5 id=&#34;advisor-runhuan-fenghttpsfacultymathillinoisedurfeng&#34;&gt;Advisor: &lt;a href=&#34;https://faculty.math.illinois.edu/~rfeng/&#34;&gt;Runhuan Feng&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;project-duration-academic-year-2017--2018-december-2017--may-2018&#34;&gt;Project Duration: Academic Year 2017 - 2018 (December 2017 - May 2018)&lt;/h5&gt;
+&lt;h4 id=&#34;review-on-capital-allocation-principlesbrsoasponsored-center-of-actuarial-excellence-projecthttpsmathillinoiseduacademicsactuarialscienceundergraduateresearchcae201617&#34;&gt;&lt;a href=&#34;https://math.illinois.edu/academics/actuarial-science/undergraduate-research/cae-2016-17&#34;&gt;Review on Capital Allocation Principles&lt;!-- raw HTML omitted --&gt;(&lt;em&gt;SOA-Sponsored Center of Actuarial Excellence Project&lt;/em&gt;)&lt;/a&gt;&lt;/h4&gt;
+&lt;h5 id=&#34;advisor-ying-wanghttpsmathillinoisedudirectoryprofilewyactsc&#34;&gt;Advisor: &lt;a href=&#34;https://math.illinois.edu/directory/profile/wyactsc&#34;&gt;Ying Wang&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;project-duration-academic-year-2016--2017-august-2016--may-2017&#34;&gt;Project Duration: Academic Year 2016 - 2017 (August 2016 - May 2017)&lt;/h5&gt;
+&lt;p&gt;Summarized literatures on optimal policy limits and capital allocation principles. Simulated numerical solutions using &lt;code&gt;copula&lt;/code&gt; package in R.&lt;/p&gt;
+&lt;h4 id=&#34;marketing-strategy-research-using-big-data&#34;&gt;Marketing Strategy Research Using Big Data&lt;/h4&gt;
+&lt;h5 id=&#34;advisor-yi-yanghttpyya518githubio&#34;&gt;Advisor: &lt;a href=&#34;http://yya518.github.io/&#34;&gt;Yi Yang&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;project-duration-may-2016--december-2016&#34;&gt;Project Duration: May 2016 - December 2016&lt;/h5&gt;
+&lt;p&gt;Implemented network analysis in NEO4J on interaction data of 240 Facebook brand pages (~20GB) to test customer recommendation and social media management strategies. Intensive use of Python (data cleansing, feature engineering), databases (data management), and R (statistical analysis).&lt;/p&gt;
+&lt;h2 id=&#34;undergraduate-class-projects&#34;&gt;Undergraduate Class Projects&lt;/h2&gt;
+&lt;h4 id=&#34;stat-428-course-final-project&#34;&gt;STAT 428 Course Final Project&lt;/h4&gt;
+&lt;h5 id=&#34;course-title-statistical-computing&#34;&gt;Course Title: Statistical Computing&lt;/h5&gt;
+&lt;h5 id=&#34;course-term-fall-2017&#34;&gt;Course Term: Fall 2017&lt;/h5&gt;
+&lt;h5 id=&#34;instructor-uma-virendra-ravathttpsstatillinoisedudirectoryprofileravat1&#34;&gt;Instructor: &lt;a href=&#34;https://stat.illinois.edu/directory/profile/ravat1&#34;&gt;Uma Virendra Ravat&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;project-title-applications-of-computational-statistics-methods-in-equitylinked-insurance-pricinghttpsgithubcompengjin2stat428finalproject&#34;&gt;Project Title: &lt;a href=&#34;https://github.com/pengjin2/STAT-428-Final-Project&#34;&gt;Applications of Computational Statistics Methods in Equity-Linked Insurance Pricing&lt;/a&gt;&lt;/h5&gt;
+&lt;h4 id=&#34;math-484-extra-4thhour-project&#34;&gt;MATH 484 Extra 4th-Hour Project&lt;/h4&gt;
+&lt;h5 id=&#34;course-title-nonlinear-programming&#34;&gt;Course Title: Nonlinear Programming&lt;/h5&gt;
+&lt;h5 id=&#34;course-term-spring-2017&#34;&gt;Course Term: Spring 2017&lt;/h5&gt;
+&lt;h5 id=&#34;instructor--advisor-theodore-mollahttpmathusfedufacultytmolla&#34;&gt;Instructor / Advisor: &lt;a href=&#34;http://math.usf.edu/faculty/tmolla/&#34;&gt;Theodore Molla&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;project-title-iterative-optimization-algorithms--summary-and-visualization&#34;&gt;Project Title: Iterative Optimization Algorithms - Summary and Visualization&lt;/h5&gt;
+&lt;p&gt;Explored several iterative optimization methods (Newton, Steepest Descent, and Conjugate Gradient) by presenting theoretical proofs to the professor and creating visualization for algorithm performance.&lt;/p&gt;
+&lt;h4 id=&#34;cs-450-graduate-4thhour-project&#34;&gt;CS 450 Graduate 4th-Hour Project&lt;/h4&gt;
+&lt;h5 id=&#34;course-title-numerical-analysis&#34;&gt;Course Title: Numerical Analysis&lt;/h5&gt;
+&lt;h5 id=&#34;course-term-fall-2016&#34;&gt;Course Term: Fall 2016&lt;/h5&gt;
+&lt;h5 id=&#34;instructor-michael-t-heathhttpheathcsillinoisedu&#34;&gt;Instructor: &lt;a href=&#34;http://heath.cs.illinois.edu/&#34;&gt;Michael T. Heath&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;project-title-python-implementation-of-numerical-methods-for-pdes&#34;&gt;Project Title: Python Implementation of Numerical Methods for PDEs&lt;/h5&gt;
+&lt;p&gt;Implemented textbook algorithms (&lt;em&gt;method of lines, upwind forward finite difference, and centered difference&lt;/em&gt;) in Python to solve common PDEs (&lt;em&gt;heat equation, wave equation, advection equation, Burger’s equation, and Poisson equation&lt;/em&gt;). Explored relationship between errors, computation time, and mesh size.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/extracurricular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/extracurricular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
